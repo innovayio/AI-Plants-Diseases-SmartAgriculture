@@ -1,4 +1,4 @@
-# AI4SmartAgriculture
+# AI in Plants Dieases Use Case - Smart Agriculture
 #### One of the main challenges confronting Agriculture is the planet disease that greatly affect farming field productivity and accordingly the whole supply chain of such prominent resources nationwide. The ability to detect, identify and proactively act against dieses could be an instrument of reducing or may be eliminating their negative economic impact on micro and macro levels. This could achieved in timely fashion by providing such identification services to farmers so they can use their mobile devices to spot and identify infection in their farming fields providing them with tactical action to help mitigate such risk as much as possible. On the other side, the identified diseases are collected and corelated to framing cycles, season schedules, climate, regions, economic factors to help decision makers updating policies and take strategic decisions for longer term planning. 
 
 <p></p>
