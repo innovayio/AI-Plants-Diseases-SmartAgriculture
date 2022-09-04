@@ -1,4 +1,15 @@
 # AI4SmartAgriculture
+#### One of the main challenges confronting Agriculture is the planet disease that greatly affect farming field productivity and accordingly the whole supply chain of such prominent resources nationwide. The ability to detect, identify and proactively act against dieses could be an instrument of reducing or may be eliminating their negative economic impact on micro and macro levels. This could achieved in timely fashion by providing such identification services to farmers so they can use their mobile devices to spot and identify infection in their farming fields providing them with tactical action to help mitigate such risk as much as possible. On the other side, the identified diseases are collected and corelated to framing cycles, season schedules, climate, regions, economic factors to help decision makers updating policies and take strategic decisions for longer term planning. 
+
+<p></p>
+
+#### This solution aims at employing cutting edge AI methods and techniques for images processing to enable disease identification, predictive anatectic and simulation with Spatial AI for what-if analysis and scenario planning to minimize the impact of infections and spreading. The setup will enable connectivity between centralized backend like cloud systems for model building /evolution and edge mobile devices for real-time disease identification. The simulation for what-if planning part will take place on the backend services to enable and should get updates in near-real-time or on demand upon request by a decision maker.
+
+<p></p>
+
+#### Who can benifit of such solution: Farmers – Extension Agents – Gov Planners – Gov Executives 
+
+<p></p>
 
 #### 01 - Statement of Work: The SoW provides clear definition of the problem being solved and the associated challenges and pain points coming from the business domain context. It provided the scope and specifications of the solution being delivered.
 #### 02 - Project Management: Planning, executing, and controlling the project in terms of scope, budged, time, quality, resources, and team assignment. Running project delivery in Lean Agile approach for lower risk and incremental delivered value.
