@@ -3,7 +3,7 @@
 #### - Overview on Smart Agricluture
 #### - Technology and Architecture
 #### - Plants Diseases
-#### - Ohter Types of Infections
+#### - Other Types of Challenges
 #### - AI Solution Specifications
 #### - References & Resources
 
